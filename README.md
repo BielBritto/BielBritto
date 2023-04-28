@@ -2,7 +2,7 @@
 - 👀 I’m interested in sharing my projects and knowledge, in addition to learning from the community and interacting, so that I can evolve in the middle of programming and help other people to evolve.
 - One area I'm interested in learning about, is the back-end part of game programming.
 - 
-- 🌱 I’m currently learning C e C++ hrough the Systems Engineering Course, in addition to Python on my own.
+- 🌱 I’m have learn Java, C and C++ through the Systems Engineering Course, in addition to Python and VBA on my own.
 - I have facility in the area of Mathematics and Logical Reasoning and desire to work with programming that involves these skills.
 - 
 - 💞️ I’m looking to collaborate with my mathematical knowledge and ability to solve problems that require logical reasoning, after all, whoever teaches/helps, always ends up learning a lot too.
